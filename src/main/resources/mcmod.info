@@ -1,0 +1,14 @@
+[{
+  "modid": "sharedresourcepacks",
+  "name": "Shared Resource Packs",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CoolSquid"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}]
